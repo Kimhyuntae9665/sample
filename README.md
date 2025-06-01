@@ -2,9 +2,9 @@ A.	프로젝트 명 : CI/CD 자동화 파이프라인 구축
 
 B.	프로젝트 멤버 이름 및 멤버 별 담당한 파트 소개
 
-임석윤 : CI/CD 자동화 파이프라인 구축 및 AWS ECS 배포 테스트 , ECS 배포 구현 : https://github.com/sylimi2r2/sample : 최종 구현 repo 
+임석윤 : CI/CD 자동화 파이프라인 구축 및 AWS ECS 배포 테스트 , ECS 배포 구현 , Java 사용  : https://github.com/sylimi2r2/sample : 최종 구현 repo 
 
-김현태 : CI/CD 자동화 파이프라인 구축 및 AWS ECS 배포 테스트 , ECS 배포 일부 구현 : https://github.com/Kimhyuntae9665/CI-CD_pipeline_proj , 구현 repo readme 참고 
+김현태 : CI/CD 자동화 파이프라인 구축 및 AWS ECS 배포 테스트 , ECS 배포 구현 JavaScript 사용 : https://github.com/Kimhyuntae9665/CI-CD_pipeline_proj , 구현 repo readme 참고 
 
 최광진 : 
 
