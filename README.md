@@ -20,6 +20,9 @@ GitHub Actions: GitHub에서 제공하는 CI/CD 자동화 도구로, 다양한 �
 
 Docker: 애플리케이션을 컨테이너화하여 일관된 실행 환경을 제공하며, 배포 자동화에 유용합니다.
 
+![image](https://github.com/user-attachments/assets/b0d68961-a87e-4c90-b793-7f5765c57fd6)
+
+
 G.	개발 결과물을 사용하는 방법 소개 (설치 방법, 동작 방법 등) : 
 1. 코드를 수정한다
 2. git commit m git push를 한다
