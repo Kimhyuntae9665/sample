@@ -30,14 +30,16 @@ F.	프로젝트 개발 결과물 소개 (+ 다이어그램)
 
 G.	개발 결과물을 사용하는 방법 소개 (설치 방법, 동작 방법 등) : 
 1. 코드를 수정한다
-2. git commit m git push를 한다
+2. git commit m git push를 한다 ==> GitHubAction이 push 를 감지하여 동작을 시작한다 
 3. Gradle 을 이용하여 Java 코드를 자동으로 빌드 , 테스트, 패키징을 한다 
 4. repo와 연동되어있는, repo에서 GithubAction을 이용해서 기존에 설정해 놓았던 규정대로 빌드, 테스트를한다
-5. 기존에 설정해 놓았던 규정에 맞게 빌드,테스트를 통과하면 AWS Elastic Container Registry로 빌드된 이미지가 올라간다
-6. 이 이미지를 이용해서 AWS ECS에서 Task Definition을 진행한다
-7. Task Definition 후에 클러스터 안에서 Task Definition을 이용해서 서비스를 만든다
-8. 배포를 진행한다
-9. 공용 IP로 접속하면 업데이트한 웹 페이지가 보인다   
+5. 기존에 설정해 놓았던 규정에 맞게 빌드,테스트를 통과하면
+6. Docker 이미지 생성한다 
+7. AWS Elastic Container Registry로 빌드된 이미지가 올라간다
+8. 이 이미지를 이용해서 AWS ECS에서 Task Definition을 진행한다
+9. Task Definition 후에 클러스터 안에서 Task Definition을 이용해서 서비스를 만든다
+10. 배포를 진행한다
+11. 공용 IP로 접속하면 업데이트한 웹 페이지가 보인다   
 
 H.	개발 결과물의 활용방안 소개
 
