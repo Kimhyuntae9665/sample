@@ -25,7 +25,7 @@ Gradle: Java 프로젝트의 빌드 자동화를 위한 도구로, 의존성 관
 F.	프로젝트 개발 결과물 소개 (+ 다이어그램)
 
 
-![image](https://github.com/user-attachments/assets/b0d68961-a87e-4c90-b793-7f5765c57fd6)
+![image](https://github.com/user-attachments/assets/b6d594ad-46d1-43b4-b6b3-2f80b03596e6)
 
 
 G.	개발 결과물을 사용하는 방법 소개 (설치 방법, 동작 방법 등) : 
