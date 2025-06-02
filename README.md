@@ -6,7 +6,7 @@ B.	프로젝트 멤버 이름 및 멤버 별 담당한 파트 소개
 
 김현태 : CI/CD 자동화 파이프라인 구축 및 AWS ECS 배포 테스트 , ECS 배포 구현 JavaScript 사용 : https://github.com/Kimhyuntae9665/CI-CD_pipeline_proj , 구현 repo readme 참고 
 
-최광진 : 
+최광진 : 자동화 파이프라인 테스트 및 배포 테스트
 
 C.	프로젝트 소개 : 이 프로젝트는 GitHub Actions를 활용하여 Java 기반 애플리케이션의 CI/CD 파이프라인을 구축하는 것을 목표로 합니다. 코드 변경 후 Github에 commit push  시 자동으로 빌드, 테스트(GitHubAction 이용), Docker 이미지 생성 및 배포(AWS-ECS 이용)가 이루어지도록 설정하였습니다.
 
